@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Kayla! 👋
 
-<!--
-**kquarle1/kquarle1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm a recent Computer Science graduate from Auburn University at Montgomery.
 
-Here are some ideas to get you started:
+- I'm interested in software engineering, web development, and UI/UX design.
+-  I'm currently building my skills, exploring new technologies, and working on personal projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'm excited to start my career in tech and continue growing as a developer.
+
+### 🛠️ Tech Stack
+- **Languages:** Python, Java, HTML, CSS, JavaScript, SQL
+- **Tools:** GitHub, VS Code, MySQL Workbench
+
+### 📫 Let's Connect!
+Feel free to check out my projects!
